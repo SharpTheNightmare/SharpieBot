@@ -11,3 +11,4 @@ Make a file called `config.json` in your base directory and copy this:
     "environment": ""
 }
 ```
+environment can be `"dev" | "prod" | "debug"`
