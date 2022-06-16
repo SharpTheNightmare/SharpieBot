@@ -1,6 +1,6 @@
 {
-    "token": "",
+    "token": "test",
     "prefix": "!",
-    "guildId": "",
-    "environment": ""
+    "guildId": "test",
+    "environment": "test"
 }
